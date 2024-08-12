@@ -97,3 +97,10 @@ Override that with `-DCMAKE_INSTALL_PREFIX=mypath` to direct installation into `
 
 If you did install to `mypath`, then `mypath/bin` must be on `PATH`.
 For option `--mcl` the Markov cluster algorithm program `mcl` must be on `PATH`.
+
+
+## How to cite Overlap Toolkit methods
+
+1. For o-lap:
+      Moyano-Gómez et al. 2024; J Cheminform 16, 97 (2024).
+      doi: 10.1186/s13321-024-00857-6; https://doi.org/10.1186/s13321-024-00857-6
