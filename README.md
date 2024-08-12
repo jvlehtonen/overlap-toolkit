@@ -9,6 +9,7 @@ Prune out overlapping atoms from mol2-formatted file
 o-lap model.mol2
 ```
 
+![o-lap modeling](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13321-024-00857-6/MediaObjects/13321_2024_857_Figa_HTML.png)
 ### Usage
 
 ```
