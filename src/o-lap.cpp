@@ -642,7 +642,7 @@ int main( int argc, char *argv[] )
             mclopt << "-I" << parser.value( "mclI" );
           }
           if ( parser.isSet( "mclte" ) ) {
-            mclopt << "--te" << parser.value( "mclte" );
+            mclopt << "-te" << parser.value( "mclte" );
           }
           mclopt << "-o" << "-";
 
